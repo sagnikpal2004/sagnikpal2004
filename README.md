@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sagnikpal2004&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sagnikpal2004&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sagnikpal2004&layout=compact&langs_count=8&theme=algolia"/>
+
 <!--
 **sagnikpal2004/sagnikpal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
